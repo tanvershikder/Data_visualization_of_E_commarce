@@ -1,0 +1,6 @@
+ID,Name,Username,Role,Email,RegistrationDate,Status
+1,Alice,alice123,User,alice@example.com,2023-05-01,Active
+2,Bob,admin_bob,Admin,bob@admin.com,2023-04-15,Active
+3,Charlie,charlie22,User,charlie@example.com,2023-06-20,Inactive
+4,Diana,diana_admin,Admin,diana@admin.com,2023-03-30,Active
+5,Eve,eve_w,User,eve@example.com,2023-07-10,Active

@@ -1,0 +1,6 @@
+CustomerID,ProductID,Review,Rating,ReviewDate
+101,P001,Great quality! Exceeded my expectations.,5,2024-12-10
+102,P002,"The product is okay, but delivery was late.",3,2024-12-11
+103,P003,Terrible experience. The item was defective.,1,2024-12-12
+104,P004,Absolutely love it! Will buy again.,5,2024-12-13
+105,P005,Not worth the price. Disappointed.,2,2024-12-14
